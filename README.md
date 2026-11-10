@@ -1,8 +1,8 @@
-# Food & Retail SMB Experimentation Blueprint
+# Food-Service SMB Experimentation Blueprint
 
-A public, practitioner-oriented blueprint helping U.S. food and retail small and medium-sized businesses adopt safer, measurable, and production-ready digital experimentation practices.
+An open-source A/B testing, conversion optimization, and safe deployment blueprint for U.S. food-service small and medium-sized businesses.
 
-This repository is maintained by **Heredes Experimentation Labs** as a public resource for small business teams, technical practitioners, advisors, and support organizations working to improve digital decision-making in food and retail environments.
+This repository is maintained by **Heredes Experimentation Labs** as a public resource for small business teams, technical practitioners, advisors, and support organizations working to improve digital decision-making in food-service environments.
 
 ---
 
@@ -10,7 +10,7 @@ This repository is maintained by **Heredes Experimentation Labs** as a public re
 
 Many small and medium-sized businesses depend on digital channels but lack the engineering governance, measurement discipline, and deployment safeguards needed to run experiments safely.
 
-The purpose of this Blueprint is to make practical experimentation guidance more accessible to U.S. food and retail SMBs by providing reusable:
+The purpose of this Blueprint is to make practical experimentation guidance more accessible to U.S. food-service SMBs by providing reusable:
 
 - experimentation governance playbooks;
 - analytics validation protocols;
@@ -28,13 +28,13 @@ The goal is not to promote experimentation as a superficial marketing tactic. Th
 
 This repository is designed for:
 
-- food and retail SMBs with active digital ordering, e-commerce, or lead-generation flows;
+- food-service SMBs with active digital ordering, e-commerce, or lead-generation flows;
 - small business owners and operators trying to improve digital conversion without unnecessary operational risk;
 - developers, designers, product managers, and analysts supporting SMB websites or storefronts;
 - Small Business Development Centers, chambers of commerce, associations, and entrepreneurship programs looking for practical digital modernization resources;
 - technical consultants or agencies seeking safer, more structured ways to help SMBs test digital changes.
 
-Although the initial focus is food and retail, many principles may also apply to other SMB contexts where digital changes affect customer acquisition, conversion, or revenue stability.
+Although the initial focus is food-service, many principles may also apply to other SMB contexts where digital changes affect customer acquisition, conversion, or revenue stability.
 
 ---
 
@@ -334,7 +334,7 @@ Attribution to Heredes Experimentation Labs is appreciated when reusing or adapt
 
 **Heredes Experimentation Labs**
 
-Public Blueprint for Food & Retail SMB Experimentation
+Public Blueprint for Food-Service SMB Experimentation
 
 Email: contact@heredeslabs.com
 
